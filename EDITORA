@@ -1,0 +1,81 @@
+<!doctype <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    
+    <title>Cadastro Editora Leo</title>
+
+    <br><br>
+    <a href="file:///C:/Users/emjunior/Documents/Programa%C3%A7%C3%A3o%20Web%20Impacta/AC%202/AC2-II.html">Tabela - Campeonato Brasileiro</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="file:///C:/Users/emjunior/Documents/Programa%C3%A7%C3%A3o%20Web%20Impacta/AC%202/AC2-III.html">Lista de Supermercado</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="file:///C:/Users/emjunior/Documents/Programa%C3%A7%C3%A3o%20Web%20Impacta/AC%202/AC2-IV.html">Cadastro da Editora</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="file:///C:/Users/emjunior/Documents/Programa%C3%A7%C3%A3o%20Web%20Impacta/AC%202/index.html">Inteligência Artificial</a>
+    
+    <br><br><br><br>
+</head>
+<body>
+
+        <center><h1><u>Cadastro Da Editora </u></h1></center>
+            <center><form>
+                
+                <div>
+                    <label for="nome">EDITORA LEO:</label><br>
+                    <input type="text" id="nomeEditora" name="nomeEditora" required/>
+                </div>
+            
+                <div>
+                    <label for="rua">Endereço :</label><br>
+                    <input type="text" id="nomeRua" name="nomeRua" required/>
+                </div>	
+                
+                <div>
+                        <label for="email">CNPJ:</label><br>
+                        <input type="text" id="numeroCNPJ" name="numeroCNPJ" pattern="[0-9]+$" required />
+                    </div>
+            
+                <div>
+                    <label for="site">Site :</label><br>
+                    <input type="text" id="nomeSite" name="nomeSite" required/>
+                </div>
+                
+                
+            
+                <div>
+                    <label for="email">E-mail:</label><br>
+                    <input type="email" id="email" name="email" required />
+                </div>
+                
+                <div>
+                    <label for="tel">Telefone :</label><br>
+                    <input type="text" required="required" name="numbers" pattern="[0-9]+$" />
+                </div>
+                
+                
+                
+
+                <h3><u>Selecione um ou mais gêneros </u></h3>
+                
+                
+
+
+                <input type="checkbox" name="generoAcao" value="Acao"> Acao<br>
+                <input type="checkbox" name="generoFiccao" value="Ficcao"> Ficção<br>
+                <input type="checkbox" name="generoComedia" value="Comedia"> Comedia<br>
+                <input type="checkbox" name="generoReligioso" value="Religioso"> Religioso<br>
+                <input type="checkbox" name="generoEsporte" value="Esporte"> Esporte<br>
+                <input type="checkbox" name="generoProfissional" value="Profissional"> Profissional<br>
+		<input type="checkbox" name="generoTerror" value="Terror"> Terror<br>
+                <input type="checkbox" name="generoOutros" value="Outros"> Outros<br>
+            
+
+                <br><br><br>
+                <div class="button">
+                    <button type="submit">Enviar</button>
+                </div>      
+
+
+
+            </form></center>
+    
+</body>
+</html
