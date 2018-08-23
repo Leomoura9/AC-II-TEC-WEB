@@ -1,0 +1,41 @@
+<!doctype <!DOCTYPE html>
+<html>
+<head>
+        <title>Lista de Supermercado</title>
+        <br><br>
+    <a href="file:///C:/Users/emjunior/Documents/Programa%C3%A7%C3%A3o%20Web%20Impacta/AC%202/AC2-II.html">Tabela - Campeonato Brasileiro</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="file:///C:/Users/emjunior/Documents/Programa%C3%A7%C3%A3o%20Web%20Impacta/AC%202/AC2-III.html">Lista de Supermercado</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="file:///C:/Users/emjunior/Documents/Programa%C3%A7%C3%A3o%20Web%20Impacta/AC%202/AC2-IV.html">Cadastro da Editora</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="file:///C:/Users/emjunior/Documents/Programa%C3%A7%C3%A3o%20Web%20Impacta/AC%202/index.html">Inteligência Artificial</a>
+    
+    <br><br><br><br>
+    </head>
+<body>   
+    
+
+        <br><br><br><br>
+    <ol>
+                <li>Porco</li>
+            <ol type="a">
+                <li>Frango</li>
+                <li>peixe</li>
+                <li>Carne</li>
+                </ol>
+            <li>Vegetais</li>
+            <ol type="a">
+                <li>cenoura</li>
+                <li>tomate</li>
+                <li>abobrinha</li>
+                </ol>
+            <li>Diversos</li>
+            <ol type="a">
+                <li>café</li>
+                <li>feijão</li>
+                <li>farinha</li>
+                <li>arroz</li>
+                </ol>    
+            </ol>
+
+
+        </body>
+</html>
